@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "974638058686",
+    "firebase_url": "https://frentingapartments-2213a.firebaseio.com",
+    "project_id": "frentingapartments-2213a",
+    "storage_bucket": "frentingapartments-2213a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974638058686:android:d6d6715bac2133c90622ef",
+        "android_client_info": {
+          "package_name": "com.example.frentingapartments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974638058686-rj2boq1lk2138ar582jrvilm971hc6do.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.frentingapartments",
+            "certificate_hash": "071c4eb79a1ef6de84f9ded1929678e94afe4acc"
+          }
+        },
+        {
+          "client_id": "974638058686-g31p2ccfusqokb8qc125rm9ie26lu5j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtdJI3WCrk1-z8-3XNZ5L8anN-RxfmPIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974638058686-g31p2ccfusqokb8qc125rm9ie26lu5j0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
